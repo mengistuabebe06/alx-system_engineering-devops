@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --wx-wxr--  hello
+chmod 411 hello
